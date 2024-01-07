@@ -1,0 +1,7 @@
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\bin\Debug\DayTwoStringReverse.exe.config
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\bin\Debug\DayTwoStringReverse.exe
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\bin\Debug\DayTwoStringReverse.pdb
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\obj\Debug\DayTwoStringReverse.csproj.AssemblyReference.cache
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\obj\Debug\DayTwoStringReverse.csproj.CoreCompileInputs.cache
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\obj\Debug\DayTwoStringReverse.exe
+E:\30_days\DayTwoStringReverse\DayTwoStringReverse\obj\Debug\DayTwoStringReverse.pdb
