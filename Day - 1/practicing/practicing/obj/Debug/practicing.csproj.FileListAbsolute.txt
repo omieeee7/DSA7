@@ -1,0 +1,7 @@
+E:\30_days\practicing\practicing\bin\Debug\practicing.exe.config
+E:\30_days\practicing\practicing\bin\Debug\practicing.exe
+E:\30_days\practicing\practicing\bin\Debug\practicing.pdb
+E:\30_days\practicing\practicing\obj\Debug\practicing.csproj.AssemblyReference.cache
+E:\30_days\practicing\practicing\obj\Debug\practicing.csproj.CoreCompileInputs.cache
+E:\30_days\practicing\practicing\obj\Debug\practicing.exe
+E:\30_days\practicing\practicing\obj\Debug\practicing.pdb
