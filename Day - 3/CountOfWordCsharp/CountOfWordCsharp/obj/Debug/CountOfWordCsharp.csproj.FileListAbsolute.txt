@@ -1,0 +1,7 @@
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\bin\Debug\CountOfWordCsharp.exe.config
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\bin\Debug\CountOfWordCsharp.exe
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\bin\Debug\CountOfWordCsharp.pdb
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\obj\Debug\CountOfWordCsharp.csproj.AssemblyReference.cache
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\obj\Debug\CountOfWordCsharp.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\obj\Debug\CountOfWordCsharp.exe
+E:\30_days\Day - 3\CountOfWordCsharp\CountOfWordCsharp\obj\Debug\CountOfWordCsharp.pdb
