@@ -1,0 +1,7 @@
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\bin\Debug\StringIsPalendromeOrNot.exe.config
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\bin\Debug\StringIsPalendromeOrNot.exe
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\bin\Debug\StringIsPalendromeOrNot.pdb
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\obj\Debug\StringIsPalendromeOrNot.csproj.AssemblyReference.cache
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\obj\Debug\StringIsPalendromeOrNot.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\obj\Debug\StringIsPalendromeOrNot.exe
+E:\30_days\Day - 4\StringIsPalendromeOrNot\StringIsPalendromeOrNot\obj\Debug\StringIsPalendromeOrNot.pdb
