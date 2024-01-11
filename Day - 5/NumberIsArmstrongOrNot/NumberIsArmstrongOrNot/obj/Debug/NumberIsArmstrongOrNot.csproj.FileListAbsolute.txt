@@ -1,0 +1,7 @@
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\NumberIsArmstrongOrNot.exe.config
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\NumberIsArmstrongOrNot.exe
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\bin\Debug\NumberIsArmstrongOrNot.pdb
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\NumberIsArmstrongOrNot.csproj.AssemblyReference.cache
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\NumberIsArmstrongOrNot.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\NumberIsArmstrongOrNot.exe
+E:\30_days\Day - 5\NumberIsArmstrongOrNot\NumberIsArmstrongOrNot\obj\Debug\NumberIsArmstrongOrNot.pdb
