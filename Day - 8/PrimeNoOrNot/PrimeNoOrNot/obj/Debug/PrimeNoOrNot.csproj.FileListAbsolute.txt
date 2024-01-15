@@ -1,0 +1,7 @@
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\bin\Debug\PrimeNoOrNot.exe.config
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\bin\Debug\PrimeNoOrNot.exe
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\bin\Debug\PrimeNoOrNot.pdb
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\obj\Debug\PrimeNoOrNot.csproj.AssemblyReference.cache
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\obj\Debug\PrimeNoOrNot.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\obj\Debug\PrimeNoOrNot.exe
+E:\30_days\Day - 8\PrimeNoOrNot\PrimeNoOrNot\obj\Debug\PrimeNoOrNot.pdb
