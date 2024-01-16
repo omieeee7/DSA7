@@ -1,0 +1,7 @@
+E:\30_days\Day - 9\Pyramid\Pyramid\bin\Debug\Pyramid.exe.config
+E:\30_days\Day - 9\Pyramid\Pyramid\bin\Debug\Pyramid.exe
+E:\30_days\Day - 9\Pyramid\Pyramid\bin\Debug\Pyramid.pdb
+E:\30_days\Day - 9\Pyramid\Pyramid\obj\Debug\StarPattern.csproj.AssemblyReference.cache
+E:\30_days\Day - 9\Pyramid\Pyramid\obj\Debug\StarPattern.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 9\Pyramid\Pyramid\obj\Debug\Pyramid.exe
+E:\30_days\Day - 9\Pyramid\Pyramid\obj\Debug\Pyramid.pdb
