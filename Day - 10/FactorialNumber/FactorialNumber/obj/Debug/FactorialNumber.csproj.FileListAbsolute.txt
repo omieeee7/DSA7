@@ -1,0 +1,7 @@
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe.config
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.exe
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\bin\Debug\FactorialNumber.pdb
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.csproj.AssemblyReference.cache
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.exe
+E:\30_days\Day - 10\FactorialNumber\FactorialNumber\obj\Debug\FactorialNumber.pdb
