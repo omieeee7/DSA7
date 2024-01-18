@@ -1,0 +1,7 @@
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\bin\Debug\NoSwapByThirdAndWithotThird.exe.config
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\bin\Debug\NoSwapByThirdAndWithotThird.exe
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\bin\Debug\NoSwapByThirdAndWithotThird.pdb
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\obj\Debug\NoSwapByThirdAndWithotThird.csproj.AssemblyReference.cache
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\obj\Debug\NoSwapByThirdAndWithotThird.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\obj\Debug\NoSwapByThirdAndWithotThird.exe
+E:\30_days\Day - 11\NoSwapByThirdAndWithotThird\NoSwapByThirdAndWithotThird\obj\Debug\NoSwapByThirdAndWithotThird.pdb
