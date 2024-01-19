@@ -1,0 +1,7 @@
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\bin\Debug\OccuranceOfEachCharacterInString.exe.config
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\bin\Debug\OccuranceOfEachCharacterInString.exe
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\bin\Debug\OccuranceOfEachCharacterInString.pdb
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\obj\Debug\OccuranceOfEachCharacterInString.csproj.AssemblyReference.cache
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\obj\Debug\OccuranceOfEachCharacterInString.csproj.CoreCompileInputs.cache
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\obj\Debug\OccuranceOfEachCharacterInString.exe
+E:\30_days\Day -12\OccuranceOfEachCharacterInString\OccuranceOfEachCharacterInString\obj\Debug\OccuranceOfEachCharacterInString.pdb
