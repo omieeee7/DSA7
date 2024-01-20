@@ -1,0 +1,7 @@
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe.config
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.exe
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.AssemblyReference.cache
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.exe
+E:\30_days\Day - 13\FibonacciSeries\FibonacciSeries\obj\Debug\FibonacciSeries.pdb
