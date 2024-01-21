@@ -1,0 +1,7 @@
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\bin\Debug\SquareAndNinetyDegreeStar.exe.config
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\bin\Debug\SquareAndNinetyDegreeStar.exe
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\bin\Debug\SquareAndNinetyDegreeStar.pdb
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\obj\Debug\SquareAndNinetyDegreeStar.csproj.AssemblyReference.cache
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\obj\Debug\SquareAndNinetyDegreeStar.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\obj\Debug\SquareAndNinetyDegreeStar.exe
+E:\30_days\Day - 14\SquareAndNinetyDegreeStar\SquareAndNinetyDegreeStar\obj\Debug\SquareAndNinetyDegreeStar.pdb
