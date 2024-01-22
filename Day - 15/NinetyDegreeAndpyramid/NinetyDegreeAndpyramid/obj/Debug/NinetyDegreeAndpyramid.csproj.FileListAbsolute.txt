@@ -1,0 +1,7 @@
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\bin\Debug\NinetyDegreeAndpyramid.exe.config
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\bin\Debug\NinetyDegreeAndpyramid.exe
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\bin\Debug\NinetyDegreeAndpyramid.pdb
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\obj\Debug\NinetyDegreeAndpyramid.csproj.AssemblyReference.cache
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\obj\Debug\NinetyDegreeAndpyramid.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\obj\Debug\NinetyDegreeAndpyramid.exe
+E:\30_days\Day - 15\NinetyDegreeAndpyramid\NinetyDegreeAndpyramid\obj\Debug\NinetyDegreeAndpyramid.pdb
