@@ -1,0 +1,7 @@
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\bin\Debug\PyramidReverseDiamond.exe.config
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\bin\Debug\PyramidReverseDiamond.exe
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\bin\Debug\PyramidReverseDiamond.pdb
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\obj\Debug\PyramidReverseDiamond.csproj.AssemblyReference.cache
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\obj\Debug\PyramidReverseDiamond.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\obj\Debug\PyramidReverseDiamond.exe
+E:\30_days\Day - 16\PyramidReverseDiamond\PyramidReverseDiamond\obj\Debug\PyramidReverseDiamond.pdb
