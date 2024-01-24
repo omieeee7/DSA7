@@ -1,0 +1,7 @@
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\bin\Debug\ArrayAdd.exe.config
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\bin\Debug\ArrayAdd.exe
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\bin\Debug\ArrayAdd.pdb
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\obj\Debug\ArrayAdd.csproj.AssemblyReference.cache
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\obj\Debug\ArrayAdd.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\obj\Debug\ArrayAdd.exe
+E:\30_days\Day - 17\ArrayAdd\ArrayAdd\obj\Debug\ArrayAdd.pdb
