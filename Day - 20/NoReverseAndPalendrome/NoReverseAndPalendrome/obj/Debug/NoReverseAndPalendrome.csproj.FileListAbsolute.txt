@@ -1,0 +1,7 @@
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\bin\Debug\NoReverseAndPalendrome.exe.config
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\bin\Debug\NoReverseAndPalendrome.exe
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\bin\Debug\NoReverseAndPalendrome.pdb
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\obj\Debug\NoReverseAndPalendrome.csproj.AssemblyReference.cache
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\obj\Debug\NoReverseAndPalendrome.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\obj\Debug\NoReverseAndPalendrome.exe
+E:\30_days\Day - 20\NoReverseAndPalendrome\NoReverseAndPalendrome\obj\Debug\NoReverseAndPalendrome.pdb
