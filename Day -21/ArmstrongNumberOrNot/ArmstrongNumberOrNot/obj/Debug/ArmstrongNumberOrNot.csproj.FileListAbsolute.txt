@@ -1,0 +1,7 @@
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\bin\Debug\ArmstrongNumberOrNot.exe.config
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\bin\Debug\ArmstrongNumberOrNot.exe
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\bin\Debug\ArmstrongNumberOrNot.pdb
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\obj\Debug\ArmstrongNumberOrNot.csproj.AssemblyReference.cache
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\obj\Debug\ArmstrongNumberOrNot.csproj.CoreCompileInputs.cache
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\obj\Debug\ArmstrongNumberOrNot.exe
+E:\30_days\Day -21\ArmstrongNumberOrNot\ArmstrongNumberOrNot\obj\Debug\ArmstrongNumberOrNot.pdb
