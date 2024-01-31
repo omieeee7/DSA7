@@ -1,0 +1,7 @@
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\bin\Debug\NumberSwapThirdWithoutThird.exe.config
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\bin\Debug\NumberSwapThirdWithoutThird.exe
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\bin\Debug\NumberSwapThirdWithoutThird.pdb
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\obj\Debug\NumberSwapThirdWithoutThird.csproj.AssemblyReference.cache
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\obj\Debug\NumberSwapThirdWithoutThird.csproj.CoreCompileInputs.cache
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\obj\Debug\NumberSwapThirdWithoutThird.exe
+E:\30_days\Day - 24\NumberSwapThirdWithoutThird\NumberSwapThirdWithoutThird\obj\Debug\NumberSwapThirdWithoutThird.pdb
